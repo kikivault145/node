@@ -1,0 +1,7 @@
+{
+  "name": "node",
+  "version": "0.1.0",
+  "dependencies": {
+    "vite": "8.0.9"
+  }
+}

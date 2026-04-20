@@ -1,4 +1,4 @@
-const { DEFAULT_PORT, LOCALHOST } = require('./constants');
+const { DEFAULT_PORT, LOCALHOST } = require('../constants');
 const http = require('http');
 
 http.createServer((request, response) => {
